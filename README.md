@@ -1,3 +1,4 @@
+# Exp: 06
 # Implementation-of-Filters
 ## AIM:
 To implement filters for smoothing and sharpening the images in the spatial domain.
